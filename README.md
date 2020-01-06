@@ -1,2 +1,2 @@
 # Data_collecting_and_analysing_from_web
-here i collected the data from our college website into an excel sheet and draw the graph by analysing it 
+here i collected the data from our college website into an excel sheet and calculate the cgpa based on their grades  and drawn the graph by analysing cgpa 

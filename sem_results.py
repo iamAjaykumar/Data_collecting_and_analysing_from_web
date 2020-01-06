@@ -11,7 +11,6 @@ for i in f:
 #print(len(id_list))
 #from openpyxl import Workbook
 final_marks=[]
-#check_id=["N160137","N160154","N160195","N160196","N160050","N160314"]
 for id_num in id_list:
 
     url_token="https://examcell.rguktn.ac.in/results/201920s1-regular/"
